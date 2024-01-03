@@ -24,9 +24,14 @@ _(just choose the questions you would like to answer and make it concise)_
 
 
 -   Identify any distractions or unnecessary elements that could potentially confuse users.<br/>
-    Answer:
+
+    Answer:<br/>
+    
+    The Category Tab in the upper middle section of Lazada (LazMall, HOME, Grocery). I just found out that this is actually a category section, it doesn't look like it. They should've put a highlight effect to tell the user there are other tabs. I've been using Lazada for so long yet I didn't know until now that there's a section (like a sub-app within the app) which is LazMall and Grocery.
+
 
 -   Compare the organization of content between the two platforms. Which between the two platforms’ content is easier to scan and understand?<br/>
+
     Answer:
 
 <br/> &nbsp;&nbsp;&nbsp;&nbsp;**User-Interface Analysis:**
