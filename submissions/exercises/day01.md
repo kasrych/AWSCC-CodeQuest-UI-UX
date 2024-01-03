@@ -32,7 +32,10 @@ _(just choose the questions you would like to answer and make it concise)_
 
 -   Compare the organization of content between the two platforms. Which between the two platforms’ content is easier to scan and understand?<br/>
 
-    Answer:
+    Answer:<br/>
+    
+    ***Shopee***. Both its web and mobile application uses a lot of white space making the interface not overwhelming for the user unlike in Lazada's mobile application, the contents are jam-packed. Also, the font color used in Lazada's website is low contrast making it hard to read the texts unlike in Shopee where they incorporate their signature color orange, not only making the interface aesthetically pleasing, but also highlighting the texts.
+
 
 <br/> &nbsp;&nbsp;&nbsp;&nbsp;**User-Interface Analysis:**
 
