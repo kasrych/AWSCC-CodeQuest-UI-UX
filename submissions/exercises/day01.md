@@ -2,14 +2,8 @@
 
 <img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
 
-You've made it—great job! Now, here's the scoop: this markdown file is your **canvas**. Customize it; let your creativity flow!
-
-Remember, you're free to add your personal touch, but keep the sacred requirements intact; they are the guardians of order here. This markdown file should or may include:
-
 #### 1. UI and UX analyses for Day 1
 
-_(just choose the questions you would like to answer and make it concise)_
-<br/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**User-Experience Analysis:**<br/>
 
 -   Which website is easier to find the product you are looking for?<br/>
@@ -54,8 +48,3 @@ _(just choose the questions you would like to answer and make it concise)_
 
 #### 2. An **optional** screenshot of playing the game **"It's Centred That"** and your feedback<br/>
 ![Screenshot 2024-01-03 214258](https://github.com/kasrych/AWSCC-CodeQuest-UI-UX/assets/117335742/fbf0ccfb-815d-4205-b54f-2ad294c377f0)
-
-
-<br>Ready to include your output for **Day 1**? Let the customization begin! 🚀✨
-
-<!-- You may now delete and modify the content of this file -->
