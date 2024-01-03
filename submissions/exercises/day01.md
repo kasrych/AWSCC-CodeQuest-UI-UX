@@ -40,7 +40,11 @@ _(just choose the questions you would like to answer and make it concise)_
 <br/> &nbsp;&nbsp;&nbsp;&nbsp;**User-Interface Analysis:**
 
 -   Is the websites’ layout and design visually pleasing and consistent with their brand?<br/>
-    Answer:
+
+    Answer:<br/>
+    - Lazada's mobile application incorporates more color than their website. However, they used color pink for their homepage which I don't really think fits their branding. They should've used their signature blue and gradient red-orange just like how Shopee uses their color branding of orange and green.
+    - Lazada's homepage is just too overwhelming in the eyes. It's jam-packed. They also have a category section but it is oddly specific for some reason. Lip Balm and Treatment? Concealer? Blushes? All in different category? They should've put them in one category called Make Up to acquire other categories.
+
     
 -   Comment on the responsiveness of both websites across different devices.<br/>
     Answer:
