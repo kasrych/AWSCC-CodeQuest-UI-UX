@@ -13,7 +13,15 @@ _(just choose the questions you would like to answer and make it concise)_
 &nbsp;&nbsp;&nbsp;&nbsp;**User-Experience Analysis:**<br/>
 
 -   Which website is easier to find the product you are looking for?<br/>
+
     Answer:
+    - I'll go with ***Shopee***.
+      - In their web application, Shopee uses actual pictures of objects for their category icons, which I don't usually like in designs because personally, I think it's not aesthetically pleasing when websites don't use consistent and minimalist same colored icons. But surprisingly, I like how Shopee incorporate real life objects as icons in their app. It made the categories stand out and easy to identify.
+      - Products you have recently searched or showed interest in shows up right at the bottom of the search bar. However, I can't seem to find the same comprehensive category section in their mobile application.
+    - ***Lazada***
+      - They rely more on text with no icons for different categories, all jam-packed on the left side, not even sorted alphabetically and in a low contrast font color, making it hard to easily see the product you are looking for. But still, props to them, because when you land the cursor in a category, sub-categories show up and it keeps getting specific as you delve deeper without opening a new tab.
+      - In terms of their mobile application, same with Shopee, I can't seem to find the category section. Like you actually have to search for the product you are looking for.
+
 
 -   Identify any distractions or unnecessary elements that could potentially confuse users.<br/>
     Answer:
