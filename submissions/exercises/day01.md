@@ -47,10 +47,18 @@ _(just choose the questions you would like to answer and make it concise)_
 
     
 -   Comment on the responsiveness of both websites across different devices.<br/>
-    Answer:
+
+    Answer:<br/>
+    
+    I have no issues in terms of both apps' responsiveness.
+
     
 -   Which do you think is better when it comes to the visual aspect of the website?<br/>
-    Answer:
+
+    Answer:<br/>
+    
+    ***Shopee***. I find it comical how Lazada's trying to achieve a minimalist look by not incorporating much of their color branding but also throws out elements with little white spaces in between. Also, the design icons in the upper section of their mobile application is not consistent. Like at one category, they use a typical minimalist icon and on the other, they used a cartoonized icon. It's not visually appealing. Also, in the category section, Lazada used actual pictures of the product. Like what you will see in advertisements. I think they should've used a general picture (like how Shopee did). For example, for dress category, just use a normal dress not a dress with branding or something (e.g. Buy 1 Take 1, icons with texts). It's giving bangketa vibes (no offense).
+
     
     <br>
 
