@@ -52,7 +52,9 @@ _(just choose the questions you would like to answer and make it concise)_
     
     <br>
 
-#### 2. An **optional** screenshot of playing the game **"It's Centred That"** and your feedback
+#### 2. An **optional** screenshot of playing the game **"It's Centred That"** and your feedback<br/>
+![Screenshot 2024-01-03 214258](https://github.com/kasrych/AWSCC-CodeQuest-UI-UX/assets/117335742/fbf0ccfb-815d-4205-b54f-2ad294c377f0)
+
 
 <br>Ready to include your output for **Day 1**? Let the customization begin! 🚀✨
 
