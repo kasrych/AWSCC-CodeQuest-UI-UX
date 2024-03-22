@@ -2,12 +2,11 @@
 
 <img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
 
-You've made it—great job! Now, here's the scoop: this markdown file is your **canvas**. Customize it; let your creativity flow!
 
-Remember, you're free to add your personal touch, but keep the sacred requirements intact; they are the guardians of order here. This markdown file should or may include:
 - Link to your own file of **"Week 1 [Day 3] : Activity"**
+  - Figma File Link:<br>
+  https://www.figma.com/file/STcWMDP3nYtuCEkdVCXwCq/Week-1-%5BDay-3%5D-%3A-Activity-(Community)?type=design&node-id=202%3A37&mode=design&t=p3eg9qIGlsWFCUu8-1
+
 - An **optional** screenshot of playing the game **"Can't Unsee"** and your feedback
-
-Ready to include your output for **Day 3**? Let the customization begin! 🚀✨
-
-<!-- You may now delete and modify the content of this file -->
+![image](https://github.com/kasrych/AWSCC-CodeQuest-UI-UX/assets/117335742/acbd91fd-3261-47d1-b1c5-2583d5021af2)<br>
+You really have to have a keen eye in order to notice the small and intricate details. It took me long enough to notice those.
